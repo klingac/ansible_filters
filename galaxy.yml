@@ -1,0 +1,35 @@
+namespace: klingac
+name: ansible_filters
+
+version: 1.0.0
+
+readme: README.md
+
+authors:
+- Martin Krutak <devklingac@gmail.com>
+
+description: Collection with some custom useful filters
+
+license:
+- GPL-2.0-or-later
+
+tags:
+  - fileters
+  - combine
+
+dependencies: {}
+
+# The URL of the originating SCM repository
+repository: git@github.com:klingac/ansible_filters.git
+
+# The URL to any online docs
+documentation: https://github.com/klingac/ansible_filters
+
+# The URL to the homepage of the collection/project
+homepage: https://github.com/klingac/ansible_filters
+
+# The URL to the collection issue tracker
+issues: https://github.com/klingac/ansible_filters/issues
+
+build_ignore: []
+
